@@ -1,0 +1,19 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindhurani29/node-server.git"
+  },
+  "author": "sindhuranigoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sindhurani29/node-server/issues"
+  },
+  "homepage": "https://github.com/sindhurani29/node-server#readme"
+}
